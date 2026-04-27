@@ -1,7 +1,6 @@
 <nav class="navbar navbar-dark">
   <div class="container d-flex justify-content-between">
 
-    <!-- KIRI (LOGO + TEXT) -->
     <div class="d-flex align-items-center">
       <img src="{{ asset('images/logo.png') }}"
            alt="Logo"
